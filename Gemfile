@@ -20,6 +20,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'activerecord-postgis-adapter'
 
+gem 'rest-client'
+
 gem 'bundler'
 
 # Use Active Storage variant
